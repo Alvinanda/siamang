@@ -1,0 +1,4 @@
+Baseline 1 : Sistem dapat login admin melihat serta dapat tambah 
+dan mengedit hapus acara 
+Baseline 2 : Sistem dapat menampilkan pencarian acara
+Baseline 3 : Sistem dapat memberi komentar
