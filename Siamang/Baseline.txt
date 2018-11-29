@@ -1,0 +1,5 @@
+Baseline 1 : Login, Tambah acara, hapus, logout
+	     Melihat info
+Baseline 2 : -
+	     Pencarian
+Baseline 3 : Komentar
